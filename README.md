@@ -345,7 +345,7 @@ Jest is configured with Babel for ESM support (targeting Node 18) and collects c
 
 ```
 my-nft-final-image-effects/
-├── plugin.js                          # Entry point for my-nft-gen PluginManager
+├── my-nft-final-image-effects-plugins.js                          # Entry point for my-nft-gen PluginManager
 ├── src/
 │   ├── index.js                       # Plugin registration logic + re-exports
 │   └── effects/

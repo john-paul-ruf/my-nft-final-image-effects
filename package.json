@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A plugin pack for creating custom visual effects for NFT generation with my-nft-effects-core",
   "type": "module",
-  "main": "plugin.js",
+  "main": "my-nft-final-image-effects-plugins.js",
   "exports": {
     ".": "./plugin.js"
   },
