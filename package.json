@@ -11,7 +11,7 @@
     "render": "node scripts/testRender.js --help"
   },
   "dependencies": {
-    "my-nft-gen": "1.6.9"
+    "my-nft-gen": "1.7.0"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.23.0",
